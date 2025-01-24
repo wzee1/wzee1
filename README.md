@@ -33,7 +33,7 @@ I have a diverse skill set that allows me to tackle various challenges in softwa
 ## 🚀 Projects
 
 ### Project 1: [Trizen Media](https://trizenmedia.com/)
-- **Description**: **[COMING SOON]** Trizen Media is a social media marketing agency, that specializes in building beautiful, feature-packed websites, editing engaging social media posts and short videos, and managing ad campaigns.
+- **Description**: Trizen Media is a social media marketing agency, that specializes in building beautiful, feature-packed websites, editing engaging social media posts and short videos, and managing ad campaigns.
 - **Technologies**: Next.js, Tailwind CSS, Framer Motion, PostgreSQL
 - **Version Control**: Git, GitHub
 
@@ -43,9 +43,7 @@ I have a diverse skill set that allows me to tackle various challenges in softwa
 - **Version Control**: Git, GitHub
 
 ### Other projects:
-- Will be available on the Social Media Marketing Agency's website.
-- Until then, check out my old portfolio website: [wzee](https://wzee.pages.dev/)
-    - **Note:** *This portfolio website does not include any of my latest projects, for those please contact me, or wait till the agency's website is done. Thank you for your understanding!* 
+- Available on Trizen Media's [website](https://trizenmedia.com)
 
 ## 📈 Learning & Development
 
