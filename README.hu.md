@@ -30,8 +30,8 @@ Széleskörű készségeim lehetővé teszik számomra, hogy különféle kihív
 
 ## 🚀 Projektek
 
-### Projekt 1: [Social Media Marketing Agency](https://github.com/wzee1)
-- **Leírás**: **[HAMAROSAN]** Egy közösségi média marketing ügynökség, amely elegáns és modern megjelenésű, funkciókkal teli weboldalak építésére, figyelemfelkeltő közösségi média posztok és rövid videók szerkesztésére, valamint hirdetési kampányok kezelésére specializálódott.
+### Projekt 1: [Trizen Media](https://trizenmedia.com/)
+- **Leírás**: Trizen Media, egy közösségi média marketing ügynökség, amely elegáns és modern megjelenésű, funkciókkal teli weboldalak építésére, figyelemfelkeltő közösségi média posztok és rövid videók szerkesztésére, valamint hirdetési kampányok kezelésére specializálódott.
 - **Technológiák**: Next.js, Tailwind CSS, Framer Motion, PostgreSQL
 - **Verziókezelés**: Git, GitHub
 
@@ -41,9 +41,7 @@ Széleskörű készségeim lehetővé teszik számomra, hogy különféle kihív
 - **Verziókezelés**: Git, GitHub
 
 ### Egyéb projektek:
-- Hamarosan elérhetőek a közösségi média marketing ügynökség weboldalán.
-- Addig is, nézd meg régi portfólió weboldalamat: [wzee](https://wzee.pages.dev/)
-    - **Megjegyzés:** *Ez a portfólió weboldal nem tartalmazza a legújabb projektjeimet, ezekért kérlek lépj kapcsolatba velem, vagy várj, amíg az ügynökség weboldala elkészül. Köszönöm megértésedet!*
+- Elérhetőek a Trizen Media [weboldalán](https://trizenmedia.com/)
 
 ## 📈 Tanulás és Fejlődés
 
