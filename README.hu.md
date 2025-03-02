@@ -1,10 +1,12 @@
 # 👨‍💻 Farkas Zoltán 👨‍💻
 
-👋 Helló! Farkas Zoltán vagyok, full stack webfejlesztő, aki erősen specializálódott a frontend fejlesztésre. Szeretem intuitív és vizuálisan vonzó zökkenőmentes felhasználói élménnyel rendelkező felhasználói felületek létrehozását.
+👋 Üdvözöllek! Farkas Zoltán vagyok, egy olyan full stack webfejlesztő, aki erősen specializálódott a frontend fejlesztésre.\
+Munkám során intuitív és vizuálisan vonzó zökkenőmentes felhasználói élménnyel rendelkező felhasználói felületek létrehozását végzem.
 
 ## 📚 Rólam
 
-Széleskörű készségeim lehetővé teszik számomra, hogy különféle kihívásokkal szembesüljek a szoftverfejlesztés terén, a felhasználói felület tervezésétől kezdve a backend szolgáltatások kezeléséig. Fő fókuszom a reszponzív és felhasználóbarát alkalmazások építése.
+Széleskörű készségeim lehetővé teszik számomra, hogy különféle kihívásokkal szembesüljek a szoftverfejlesztés terén, a felhasználói felület tervezésétől kezdve a backend szolgáltatások kezeléséig.\
+Fő fókuszom a reszponzív és felhasználóbarát alkalmazások építése.
 
 - **🌍 Helyszín**: Magyarország, Hajdú-Bihar megye, Debrecen
 - **🌐 Webfejlesztési skillek**:
@@ -24,7 +26,7 @@ Széleskörű készségeim lehetővé teszik számomra, hogy különféle kihív
   - **Képszerkesztés**: Photoshop
 
 ### 🎓 Egyetemi Tanulmányok
-- **Szak**: Számítástechnika BSc
+- **Szak**: Programtervező informatikus BSc
 - **Intézmény**: Debreceni Egyetem
 - **Tanulmányi Évek**: 2023 - 2026
 
